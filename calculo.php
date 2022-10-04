@@ -8,5 +8,6 @@
 else
 {
     echo "Menor de Idade!";
+    echo "Você chegou ao fim da programação";
 }
 ?>
